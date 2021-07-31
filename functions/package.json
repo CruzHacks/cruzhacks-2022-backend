@@ -23,7 +23,7 @@
     "express-jwt": "^6.0.0",
     "firebase-admin": "^9.2.0",
     "firebase-functions": "^3.11.0",
-    "firebase-tools": "^9.14.0",
+    "firebase-tools": "^9.16.0",
     "jwks-rsa": "^2.0.4",
     "supertest": "^6.1.3"
   },
