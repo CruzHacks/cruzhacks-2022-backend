@@ -18,7 +18,7 @@
   "main": "index.js",
   "dependencies": {
     "@firebase/testing": "^0.20.11",
-    "axios": "^0.21.1",
+    "axios": "^0.21.3",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-jwt": "^6.0.0",
